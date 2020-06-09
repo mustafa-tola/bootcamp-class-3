@@ -10,7 +10,7 @@ import * as serviceWorker from './serviceWorker';
 // );
 
 ReactDOM.render(
-  <div><App name="Zia Khan" age= {25} isReactDeveloper={true}/></div>,
+  <div><App name="Mustafa" age= {18} isReactDeveloper={true}/></div>,
   document.getElementById('root')
 );
 
